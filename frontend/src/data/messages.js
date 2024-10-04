@@ -61,7 +61,7 @@ export const messages = [
     sender: {
       pic: "https://icon-library.com/images/anonymous-avatar-icon/anonymous-avatar-icon-25.jpg",
       _id: "1",
-      name: "Piyush",
+      name: "Vesakar",
     },
     content: "What About You?",
     chat: "60a3de1ff381d830b884998d",
@@ -103,7 +103,7 @@ export const messages = [
     sender: {
       pic: "https://icon-library.com/images/anonymous-avatar-icon/anonymous-avatar-icon-25.jpg",
       _id: "1",
-      name: "Piyush",
+      name: "Vesakar",
     },
     content: "Just the MERN Stack",
     chat: "60a3de1ff381d830b884998d",
